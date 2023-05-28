@@ -14,7 +14,6 @@ const ServiceCard = ({ service }) => {
                     <div className="card-actions">
                         <Link to={`/checkout/${_id}`}>
                         <button className="btn btn-primary">Book Now</button>
-
                         </Link>
 
                     </div>
